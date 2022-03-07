@@ -37,9 +37,10 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Oliveira-8&show_icons=true&theme=vision-friendly-dark" alt="MarcosOliveira's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Oliveira-8&layout=compact&theme=vision-friendly-dark" alt="mmarcosoliveira's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira-8&show_icons=true&theme=vision-friendly-dark" alt="MarcosOliveira-8's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira-8&layout=compact&theme=vision-friendly-dark" alt="MarcosOliveira-8's most languages"/>
 </p>
+
 
 <br><br>
 

@@ -6,13 +6,16 @@
 
 - 👨‍💻 Desenvolvedor Java Full Stack em Formação
 
-- 💬 Ask me about **HTML, CSSJ, JavaScript, SQL, Java**
+-Em 2019 iniciei minha jornada em um caminho que nunca imaginaria  que me idetificaria tanto, hoje a programação faz parte dos meus pilares profissionais e pessoais.
+
+ Graduado em Analise e Desenvolvumento de Sistemas e Pós-granduando em Desenvolvimento Web Full Stack pela universidade UNOPAR continuo consolidadando conhecimento nas           plataformas de ensino Alura e Udemy.
+
 
 
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Minhas Tecnologias
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -34,7 +37,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;Estatísticas GitHub
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira-8&show_icons=true&theme=vision-friendly-dark" alt="MarcosOliveira-8's stats"/>
@@ -44,7 +47,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏽‍🦲 &nbsp;Redes Sociais
 
 <p>
 <a href="https://www.linkedin.com/in/marcosoliveira-dev/" target="_blank">

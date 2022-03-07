@@ -6,9 +6,9 @@
 
 - 👨‍💻 Desenvolvedor Java Full Stack em Formação
 
--Em 2019 iniciei minha jornada em um caminho que nunca imaginaria  que me idetificaria tanto, hoje a programação faz parte dos meus pilares profissionais e pessoais.
+  Em 2019 iniciei minha jornada em um caminho que nunca imaginaria  que me idetificaria tanto, hoje a programação faz parte dos meus pilares profissionais e pessoais.
 
- Graduado em Analise e Desenvolvumento de Sistemas e Pós-granduando em Desenvolvimento Web Full Stack pela universidade UNOPAR continuo consolidadando conhecimento nas           plataformas de ensino Alura e Udemy.
+  Graduado em Analise e Desenvolvumento de Sistemas e Pós-granduando em Desenvolvimento Web Full Stack pela universidade UNOPAR continuo consolidadando conhecimento nas           plataformas de ensino Alura e Udemy.
 
 
 

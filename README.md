@@ -9,10 +9,10 @@
   Em 2019 iniciei minha jornada em um caminho que nunca imaginaria  que me idetificaria tanto, hoje a programação faz parte dos meus pilares profissionais e pessoais.
   
 <br><br>
-## 📚 Formaçao Academica
+## 📚 Formaçâo Acadêmica
 
-   👨‍💻 **Graduado** em Analise e Desenvolvimento de Sistemas - 2021.2 - Universidade UNOPAR.<br>
-   👨‍💻 **Pós-granduando** em Desenvolvimento Web Full Stack - Jan/2022 à Dez/2022 - Universidade UNOPAR.
+   👨‍💻 **Graduado ->** Analise e Desenvolvimento de Sistemas - 2021.2 - Universidade UNOPAR.<br>
+   👨‍💻 **Pós-granduando ->** Desenvolvimento Web Full Stack - Jan/2022 à Dez/2022 - Universidade UNOPAR.
   
 <br><br>
 

@@ -7,12 +7,13 @@
 - 👨‍💻 Desenvolvedor Java Full Stack em Formação
 
   Em 2019 iniciei minha jornada em um caminho que nunca imaginaria  que me idetificaria tanto, hoje a programação faz parte dos meus pilares profissionais e pessoais.
+  
+<br><br>
+## 📚 Formaçao Academica
 
-  Graduado em Analise e Desenvolvumento de Sistemas e Pós-granduando em Desenvolvimento Web Full Stack pela universidade UNOPAR continuo consolidadando conhecimento nas           plataformas de ensino Alura e Udemy.
-
-
-
-
+  👨‍💻 Graduado em Analise e Desenvolvimento de Sistemas - 2021.2 - Universidade UNOPAR.<br>
+  👨‍💻 Pós-granduando em Desenvolvimento Web Full Stack - Jan/2022 à Dez/2022 - universidade UNOPAR.
+  
 <br><br>
 
 ## 🛠 &nbsp;Minhas Tecnologias
@@ -33,6 +34,7 @@
 
 ![eclipse](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 
 <br><br>

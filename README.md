@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcos-Oliveira-8&color=yellow" alt="Profile views" /> </p>
 
 
-- 👨‍💻 Desenvolvedor Java Full Stack em Formação
+   👨‍💻 **Desenvolvedor Java Full Stack em Formação**
 
   Em 2019 iniciei minha jornada em um caminho que nunca imaginaria  que me idetificaria tanto, hoje a programação faz parte dos meus pilares profissionais e pessoais.
   
 <br><br>
 ## 📚 Formaçao Academica
 
-  👨‍💻 Graduado em Analise e Desenvolvimento de Sistemas - 2021.2 - Universidade UNOPAR.<br>
-  👨‍💻 Pós-granduando em Desenvolvimento Web Full Stack - Jan/2022 à Dez/2022 - universidade UNOPAR.
+   👨‍💻 **Graduado** em Analise e Desenvolvimento de Sistemas - 2021.2 - Universidade UNOPAR.<br>
+   👨‍💻 **Pós-granduando** em Desenvolvimento Web Full Stack - Jan/2022 à Dez/2022 - Universidade UNOPAR.
   
 <br><br>
 

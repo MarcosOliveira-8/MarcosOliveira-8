@@ -27,7 +27,6 @@
 ![springboot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLserver](https://img.shields.io/badge/-SQLserver-05122A?style=flat&logo=SQLserver)
 
 
@@ -68,6 +67,9 @@
 
 
 <!--
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
 **MARCOS OLIVEIRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

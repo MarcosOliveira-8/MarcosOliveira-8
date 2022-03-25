@@ -60,6 +60,9 @@
  <img align="center" src="https://img.shields.io/badge/-Marcos Oliveira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<a href="https://www.hackerrank.com/marcosoliveira_8" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Marcos Oliveia" height="25" width="30" /></a>
 <br><br>
 <br><br>
 <br><br>

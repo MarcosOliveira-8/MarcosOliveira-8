@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Marcos-Oliveira-8&color=yellow" alt="Profile views" /> </p>
 <br><br>
 
+
    👨‍💻 **Desenvolvedor Java Full Stack em Formação**
 
   Em 2019 iniciei minha jornada em um caminho que nunca imaginaria  que me idetificaria tanto, hoje a programação faz parte dos meus pilares profissionais e pessoais.
@@ -17,22 +18,22 @@
 <br><br>
 
 ## 🛠 &nbsp;Minhas Tecnologias
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="260" />
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)
-
+<br><br>
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![springboot](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)
-
+<br><br>
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![SQLserver](https://img.shields.io/badge/-SQLserver-05122A?style=flat&logo=SQLserver)
-
-
+<br><br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+<br><br>
 ![eclipse](https://img.shields.io/badge/-eclipse-05122A?style=flat&logo=eclipse)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
@@ -46,7 +47,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=MarcosOliveira-8&show_icons=true&theme=vision-friendly-dark" alt="MarcosOliveira-8's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosOliveira-8&layout=compact&theme=vision-friendly-dark" alt="MarcosOliveira-8's most languages"/>
 </p>
-
 
 <br><br>
 

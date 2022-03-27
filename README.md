@@ -17,7 +17,7 @@
   
 <br><br>
 
-## 🛠 &nbsp;Minhas Tecnologias
+## 🛠 &nbsp;Minhas Tecnologias e Ferramentas
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
